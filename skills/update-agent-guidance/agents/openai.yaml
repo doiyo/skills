@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Agent Guidance"
+  short_description: "Turn feedback into AGENTS.md guidance"
+  default_prompt: "Use $update-agent-guidance to update AGENTS.md from this feedback."
