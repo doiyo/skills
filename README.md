@@ -2,6 +2,20 @@
 
 This repository contains local agent skills.
 
+## Installation
+
+Install all skills:
+
+```sh
+npx skills add doiyo/skills
+```
+
+Install one skill:
+
+```sh
+npx skills add doiyo/skills --skill x-feature-drafts
+```
+
 ## Available Skills
 
 ### update-agent-guidance
