@@ -27,10 +27,12 @@ Use this skill to convert feedback from a specific agent failure into durable, n
    - Use global `~/.agents/AGENTS.md` for cross-repo agent behavior, general coding judgment, review discipline, or communication expectations.
    - Use an explicitly named guidance file when the human points to one, unless its existing scope clearly does not match the lesson.
 
-4. Confirm the target with the human before editing.
+4. Confirm the target and edit with the human before editing.
    - State the recommended file and why.
+   - State the section or location to change.
+   - Show the proposed wording or patch-level edit.
    - Mention the other plausible target only if there is a real tradeoff.
-   - Do not edit any guidance file until the human confirms the target.
+   - Do not edit any guidance file until the human confirms both the target file and the proposed change.
 
 5. Make the smallest non-redundant update.
    - Add one concise bullet near the most relevant existing section, or revise an existing bullet if that avoids duplication.
