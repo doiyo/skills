@@ -18,7 +18,7 @@ npx skills add doiyo/skills --skill x-feature-drafts
 
 ## Available Skills
 
-### doi-toggle-skills
+### toggle-skills
 
 Enables or disables skills by confirmed groups for the current agent only.
 
@@ -29,8 +29,8 @@ before editing any supported skill config.
 
 Files:
 
-- `skills/doi-toggle-skills/SKILL.md`
-- `skills/doi-toggle-skills/scripts/toggle_skills.py`
+- `skills/toggle-skills/SKILL.md`
+- `skills/toggle-skills/scripts/toggle_skills.py`
 
 ### update-agent-guidance
 

@@ -1,9 +1,9 @@
 ---
-name: doi-toggle-skills
+name: toggle-skills
 description: Enable or disable skills for only the current agent runtime by confirmed groups. Use when the user asks to list, enable, disable, toggle, suppress, restore, or manage skills in the active agent, including requests like disable all marketing skills, enable Gmail skills, or disable all gstack skills at once.
 ---
 
-# Doi Toggle Skills
+# Toggle Skills
 
 ## Overview
 
