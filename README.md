@@ -18,6 +18,20 @@ npx skills add doiyo/skills --skill x-feature-drafts
 
 ## Available Skills
 
+### doi-toggle-skills
+
+Enables or disables skills by confirmed groups for the current agent only.
+
+Use it when listing skill groups, disabling a whole installed bundle such as
+marketing skills, or enabling/disabling a local skill family such as gstack. The
+skill previews the exact current-agent config changes and requires confirmation
+before editing any supported skill config.
+
+Files:
+
+- `skills/doi-toggle-skills/SKILL.md`
+- `skills/doi-toggle-skills/scripts/toggle_skills.py`
+
 ### update-agent-guidance
 
 Turns feedback about agent mistakes or missed expectations into concise, durable

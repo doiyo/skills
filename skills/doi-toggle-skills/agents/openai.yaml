@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doi Toggle Skills"
+  short_description: "Enable or disable current-agent skills"
+  default_prompt: "Use $doi-toggle-skills to enable or disable a confirmed group of skills for the current agent."
